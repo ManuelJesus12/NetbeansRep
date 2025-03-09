@@ -15,9 +15,8 @@ public class JavaApplication1 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Hello World Branch Feature");
-        String branchName1="feature";
-        String branchName2="actualizacion";
+        System.out.println("Hello World Branch A");
+        String name="a";
     }
     
 }
